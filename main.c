@@ -1,3 +1,5 @@
-init main()
+init main(){
+ 
 
 printf("hello world");
+}
