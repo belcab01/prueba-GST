@@ -1,4 +1,4 @@
 # prueba-GST
 
 
-Asssssssssssssssssssssssssss Descripción aquí
+Descripción aquí
